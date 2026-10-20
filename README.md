@@ -6,7 +6,7 @@ large, cross-platform codebases. 5+ years of desktop apps with Electron and Taur
 | | |
 |---|---|
 | **[agent-view](https://github.com/PetukhovArt/agent-view)** | Your agent's eyes. DevTools-level access to Electron, Tauri and Chromium apps. |
-| **[stratum](https://github.com/PetukhovArt/stratum)** | Architecture guardrails. A linter for TS/Vue whose every finding comes with a fix the agent can apply. |
-| **[jig](https://github.com/PetukhovArt/jig)** | The harness that ties them together. *(coming soon)* |
+| **[stratum](https://github.com/PetukhovArt/stratum)** | Architecture guardrails for any codebase layout. Every finding comes with a fix the agent can apply. TypeScript, JS and Vue today. |
+| **[jig](https://github.com/PetukhovArt/jig)** | The harness that ties them together, for any coding agent. Claude Code first. *(coming soon)* |
 
 Writing about what works and what doesn't on [X](https://x.com/PetukhovArt) and [LinkedIn](https://www.linkedin.com/in/petukhovartem/).
