@@ -1,7 +1,7 @@
 ### Hi, I'm Artem
 
 I build tooling that makes AI coding agents (mostly Claude Code) work on real, large codebases.
-5+ years of cross-platform apps (web, desktop) with Electron and Tauri.
+5+ years of cross-platform apps with Electron and Tauri: Windows, macOS, Linux and the browser.
 
 | | |
 |---|---|
