@@ -12,7 +12,7 @@ Now most of my code goes through Claude Code, so I build the tools it was missin
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white)
 
 ```text
-           jig  ·  the harness: gates, checks, UI proof before the MR
+           jig  ·  the harness: gates, proven review, UI proof before the MR
             │
       ┌─────┴──────┐
   agent-view    stratum
@@ -22,7 +22,7 @@ Now most of my code goes through Claude Code, so I build the tools it was missin
 
 | Tool | What it gives your agent | |
 |---|---|---|
-| **[jig](https://github.com/PetukhovArt/jig)** | Discipline. The harness the tools below plug into. | [![soon](https://img.shields.io/badge/status-coming_soon-8250df?style=flat)](https://github.com/PetukhovArt/jig) |
+| **[jig](https://github.com/PetukhovArt/jig)** | Discipline. A turn can't end with a type error in its files, a UI change needs proof in the running app before the MR, and a review keeps a finding only with a quoted cause, path and effect. Claude Code plugin; the tools below plug into it. | [![release](https://img.shields.io/github/v/release/PetukhovArt/jig?label=release&color=8250df&style=flat)](https://github.com/PetukhovArt/jig/releases) |
 | **[agent-view](https://github.com/PetukhovArt/agent-view)** | Eyes. DevTools-level access to Electron, Tauri and Chromium apps: DOM, clicks, network, heap. `dom → click → dom` in ~17 ms. | [![npm](https://img.shields.io/npm/v/@petukhovart/agent-view?label=npm&color=cb3837&style=flat)](https://www.npmjs.com/package/@petukhovart/agent-view) |
 | **[stratum](https://github.com/PetukhovArt/stratum)** | Guardrails. An architecture linter for any codebase layout; every finding comes with a fix. TypeScript, JS and Vue today. | [![npm](https://img.shields.io/npm/v/@petukhovart/stratum-lint?label=npm&color=cb3837&style=flat)](https://www.npmjs.com/package/@petukhovart/stratum-lint) |
 
