@@ -1,9 +1,9 @@
 ### Hi, I'm Artem
 
-**I build the harness around AI coding agents.**
+**I build the harness and tools around AI coding agents.**
 
-Web & AI engineer. Years of high-load cross-platform apps with Electron and Tauri: Windows, macOS, Linux and Chromium.
-Now most of my code goes through Claude Code, so I build the tools that support me and my team's with development cycle.
+Years of high-load cross-platform web apps with Electron and Tauri have given me invaluable engineering experience that I now implement in my tools.
+All of my code now goes through agents, so I build the tools that support me and my team's with development cycle and not only that.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
@@ -27,5 +27,4 @@ Now most of my code goes through Claude Code, so I build the tools that support 
 | **[stratum](https://github.com/PetukhovArt/stratum)** | Guardrails. An architecture linter for any codebase. Build your own rules, customize, determenistic pipeline, visualize. | [![npm](https://img.shields.io/npm/v/@petukhovart/stratum-lint?label=npm&color=cb3837&style=flat)](https://www.npmjs.com/package/@petukhovart/stratum-lint) |
 | **[skills](https://github.com/PetukhovArt/skills)** | Habits. My best agent skills, small and harness-agnostic: Claude Code, Codex, Cursor. Start with `raise-the-bar`: it lifts a task to the bar a top professional would set before any work starts. | [![release](https://img.shields.io/github/v/release/PetukhovArt/skills?label=release&color=8250df&style=flat)](https://github.com/PetukhovArt/skills/releases) |
 
-Try them, use them, add issues or welcome to contribute !
-Writing about what works and what doesn't on [X](https://x.com/PetukhovArt) and [LinkedIn](https://www.linkedin.com/in/petukhovartem/).
+Try them, steal them, also welcome for contribute improvements and ideas !
