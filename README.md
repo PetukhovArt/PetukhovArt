@@ -12,12 +12,12 @@ All of my code now goes through agents, so I build the tools that support me and
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white)
 
 ```text
-           jig  ·  harness
+         **jig** 
             │
       ┌─────┴──────┐
-  agent-view    stratum
-     eyes     architecture
-               guardrails
+  **agent-view**    **stratum**
+   UX verification   architecture
+                     guardrails
 ```
 
 | Tool | What it gives your agent | |
